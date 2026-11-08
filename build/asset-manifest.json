@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/recruitment/static/css/main.4895c812.css",
+    "main.js": "/recruitment/static/js/main.96bc7013.js",
+    "static/js/453.24c4837d.chunk.js": "/recruitment/static/js/453.24c4837d.chunk.js",
+    "index.html": "/recruitment/index.html",
+    "main.4895c812.css.map": "/recruitment/static/css/main.4895c812.css.map",
+    "main.96bc7013.js.map": "/recruitment/static/js/main.96bc7013.js.map",
+    "453.24c4837d.chunk.js.map": "/recruitment/static/js/453.24c4837d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4895c812.css",
+    "static/js/main.96bc7013.js"
+  ]
+}
